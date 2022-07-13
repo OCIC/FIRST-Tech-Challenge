@@ -1,6 +1,6 @@
 # Robotics Software for the FIRST Tech Challenge
 
-This repository contains code for a robot designed for the [FIRST Tech Challenge Info](https://www.firstinspires.org/robotics/ftc), a worldwide competition where teams try to score points by accomplishing various 
+This repository contains code for a robot designed for the [FIRST Tech Challenge Info](https://www.firstinspires.org/robotics/ftc), a worldwide competition in which teams try to score points by accomplishing various 
 tasks on a playing field.
 
 Among these files you'll find:

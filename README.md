@@ -8,7 +8,7 @@ Among these files you'll find:
 2. Algorithms for autonomous robot driving
 3. Program for a robotic arm
 
-For more detailed descriptions of these programs please refer to our [Engineering Notebook](https://drive.google.com/file/d/10ZbTJVGZZdXm0vC8-VPeun7FNLMnCYfn/view?usp=sharing)
+For more detailed descriptions please refer to our [Engineering Notebook](https://drive.google.com/file/d/10ZbTJVGZZdXm0vC8-VPeun7FNLMnCYfn/view?usp=sharing)
 
 To see the robot in action please take a look at these [videos](https://photos.app.goo.gl/EhdhvV14db5P6dAF6)
 

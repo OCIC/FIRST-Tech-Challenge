@@ -10,6 +10,6 @@ Among these files you'll find:
 
 For more detailed descriptions please refer to our [Engineering Notebook](https://drive.google.com/file/d/10ZbTJVGZZdXm0vC8-VPeun7FNLMnCYfn/view?usp=sharing)
 
-To see the robot in action please take a look at these [videos](https://photos.app.goo.gl/EhdhvV14db5P6dAF6)
+To see the robot in action please take a look at these [videos](https://photos.app.goo.gl/fRUyUSaNHe4zdZoE7)
 
 Please note: if you'd like to use the programs for your robot, you need to have the FTC SDK installed as well as the libraries discussed in the engineering notebook.
